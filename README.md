@@ -24,3 +24,15 @@
 <img width="1073" height="1326" alt="image" src="https://github.com/user-attachments/assets/cf6291bb-bab6-42ce-bdec-57e50e573d85" />
 <img width="1094" height="959" alt="image" src="https://github.com/user-attachments/assets/76aee0c6-ee46-4453-8dc3-c5491b569701" />
 
+---
+
+# 5 NLP techniques you should know
+
+<img width="795" height="1497" alt="image" src="https://github.com/user-attachments/assets/f6c52f37-058b-43be-8fdf-234b1b482c1d" />
+
+<img width="1228" height="1181" alt="image" src="https://github.com/user-attachments/assets/52d674ba-3681-41bb-830b-2bdaa70dfc23" />
+
+---
+
+
+
